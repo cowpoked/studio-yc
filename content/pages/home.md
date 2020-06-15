@@ -18,6 +18,4 @@ Corrine Willis is a classically trained vocalist specializing in working with st
 
 ![](https://ucarecdn.com/b28133c8-8e00-4c4c-9185-fb72cc733901/-/progressive/yes/-/format/auto/-/resize/200x/)
 
-Corrine’s musical passion is first and foremost education, and she has had the privilege of having a diverse array of vocal coaches.  Corrine prides herself on properly analyzing each singer individually, assessing strengths and weaknesses, and tailor making warmups and pedagogy that will help each student to be successful.  Whether it be through vocal or instrumental instruction, music theory lessons, song production & arranging, NYSSMA adjudication, or special event performances, Corrine Willis strives to fill the musical and educational needs of any inquirer.  Contact her today to see how you can take your love of music to the next level! 
-
-## Links & Information
+Corrine’s musical passion is first and foremost education, and she has had the privilege of having a diverse array of vocal coaches.  Corrine prides herself on properly analyzing each singer individually, assessing strengths and weaknesses, and tailor making warmups and pedagogy that will help each student to be successful.  Whether it be through vocal or instrumental instruction, music theory lessons, song production & arranging, NYSSMA adjudication, or special event performances, Corrine Willis strives to fill the musical and educational needs of any inquirer.  Contact her today to see how you can take your love of music to the next level!
