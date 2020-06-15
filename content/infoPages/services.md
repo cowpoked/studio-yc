@@ -32,3 +32,7 @@ meta:
 ### NYSSMA Judging/Vocal Adjudication
 
 * Contact for rates
+
+![](https://ucarecdn.com/008caa02-3764-4817-a579-ea31607e879a/)
+
+![](https://ucarecdn.com/bb7bd70f-003b-42ba-abf0-094adc67244e/)
