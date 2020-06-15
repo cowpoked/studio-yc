@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Corrine Willis Music
-featuredImage: 'https://ucarecdn.com/e697c98e-31a5-4e78-8745-0972379e4688/'
+featuredImage: 'https://ucarecdn.com/26a43893-40df-4f43-b03d-2a14690240d5/'
 subtitle: Providing vocal/music lessons and event music in the North Country
 meta:
   description: Serving your vocal technique needs since 1427
@@ -18,6 +18,6 @@ Corrine Willis is a classically trained vocalist specializing in working with st
 
 Corrine’s musical passion is first and foremost education, and she has had the privilege of having a diverse array of vocal coaches.  Corrine prides herself on properly analyzing each singer individually, assessing strengths and weaknesses, and tailor making warmups and pedagogy that will help each student to be successful.  Whether it be through vocal or instrumental instruction, music theory lessons, song production & arranging, NYSSMA adjudication, or special event performances, Corrine Willis strives to fill the musical and educational needs of any inquirer.  Contact her today to see how you can take your love of music to the next level! 
 
-## Get started
+## Follow
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
+## Lesson Times
