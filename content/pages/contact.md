@@ -2,11 +2,11 @@
 template: ContactPage
 slug: contact
 title: Contact Page
-featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
+featuredImage: 'https://ucarecdn.com/536170e8-2aca-46d4-a505-18141cb682b4/'
 subtitle: This is the contact page subtitle.
-address: '404 James St, Burleigh Heads QLD 4220'
+address: 'Clayton NY, 13624'
 phone: 0987 123 456
-email: example@example.com
+email: corrinefwillis@gmail.com
 locations:
   - lat: '-27.9654732'
     lng: '153.2432449'
