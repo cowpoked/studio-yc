@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Corrine Willis Music
-featuredImage: 'https://ucarecdn.com/86d0a3f2-70a5-4faf-9152-4ab6fd11b63e/'
+featuredImage: 'https://ucarecdn.com/4ec57eb7-f183-427d-87c9-473418257692/'
 subtitle: Providing vocal/music lessons and event music in the North Country
 meta:
   description: Serving your vocal technique needs since 1427
