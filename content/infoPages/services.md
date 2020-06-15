@@ -29,6 +29,10 @@ meta:
 
 * Contact for rates
 
+### Piano Accompaniment/Pit Orchestra
+
+* Contact for rates
+
 ### NYSSMA Judging/Vocal Adjudication
 
 * Contact for rates
