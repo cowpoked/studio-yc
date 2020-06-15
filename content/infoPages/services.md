@@ -2,7 +2,7 @@
 template: DefaultPage
 slug: services
 title: Services
-featuredImage: 'https://ucarecdn.com/fcc0d391-b63e-458d-aad1-84e78c14c2f0/'
+featuredImage: 'https://ucarecdn.com/16072d4b-d79b-46da-809e-dee105fc1a75/'
 meta:
   description: Vocal studio services listing
   title: services
