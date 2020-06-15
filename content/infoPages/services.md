@@ -2,30 +2,33 @@
 template: DefaultPage
 slug: services
 title: Services
-featuredImage: https://ucarecdn.com/7ec2ff8c-5ef7-4dd8-b551-baa44d114cc3/
+featuredImage: 'https://ucarecdn.com/fcc0d391-b63e-458d-aad1-84e78c14c2f0/'
 meta:
   description: Vocal studio services listing
   title: services
 ---
-
 ## Services
 
-### Vocal lessons
+### Vocal/Piano/Guitar lessons
 
-Description/rate
+* $15 per forty minute lesson _(thirty minutes for instrumental)_
 
-### Music theory tutoring and instruction
+### Music Theory Instruction/Tutoring
 
-Description/rate
+* Contact for rates
 
-### Song produciton and arranging
+### Song Production & Arranging
 
-Description/rate
+* Contact for rates
 
-### Stage presence and performance
+### Practice Tracks & Recordings
 
-Description/rate
+* Contact for rates
 
-### Practice track recording
+### Wedding & Event Music
 
-Description/rate
+* Contact for rates
+
+### NYSSMA Judging/Vocal Adjudication
+
+* Contact for rates
