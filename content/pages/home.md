@@ -10,6 +10,8 @@ meta:
 ---
 ![](https://ucarecdn.com/a6bd0ac9-1ae2-416e-87e1-57facc1a61dc/-/progressive/yes/-/format/auto/-/resize/200x/)
 
+![](https://ucarecdn.com/bf18ed28-e6eb-4e9d-b134-0b3d3fe99abe/)
+
 Corrine Willis is a classically trained vocalist specializing in working with students on singing authentically, freely, and healthily.  She is a diverse musician both instrumentally and vocally, and enjoys singing in a variety of genres.  As an educator, she is passionate about helping others realize and share their love of music.  Her number one priority as a vocal educator is healthy singing, and she strives to work with students to promote good singing habits that will yield a lifelong career of singing, be it professionally or as a hobby. 
 
 # Our Purpose
