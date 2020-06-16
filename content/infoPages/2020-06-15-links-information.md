@@ -2,16 +2,16 @@
 template: DefaultPage
 slug: reference
 title: Reference
-featuredImage: 'https://ucarecdn.com/f4eb58a7-da4f-479c-9c63-b847abe144ae/'
+featuredImage: 'https://ucarecdn.com/4d9a3fe1-f74d-42e5-9a40-de2f21aeae70/'
 ---
-**_Lesson Schedule_**
+Lesson Schedule
 
-**_Willis Warmup Series_** 
+Willis Warmup Series 
 
-**_Introduction & Demo Vocal Lesson_** 
+Introduction & Demo Vocal Lesson 
 
-**_Arrangement Demo Reel_** 
+Arrangement Demo Reel 
 
-**_Practice Track Example_**
+Practice Track Example
 
 ![](https://ucarecdn.com/a6ac37d8-4b2a-4894-9a4b-1936a116df0a/)
