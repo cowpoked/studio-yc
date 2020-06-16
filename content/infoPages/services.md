@@ -2,28 +2,32 @@
 template: DefaultPage
 slug: services
 title: Services
-featuredImage: 'https://ucarecdn.com/16072d4b-d79b-46da-809e-dee105fc1a75/'
+featuredImage: 'https://ucarecdn.com/528ef60e-7480-4133-ac50-0807d21041cc/'
 meta:
   description: Vocal studio services listing
   title: services
 ---
 ## Services
 
-### Vocal/Piano/Guitar lessons
+### Vocal/Piano/Guitar lessons (face to face and virtual)
 
 * $15 per forty minute lesson _(thirty minutes for instrumental)_
+  * _Each lesson includes customized warm ups, consistent and encouraging verbal feedback, live piano accompaniment (if needed), sight reading exercises, repertoire rehearsing, and physical performance suggestions and strategies. Each singer will also receive access to the full “Willis Warmup” series to help supplement his or her vocal instruction._
 
 ### Music Theory Instruction/Tutoring
 
 * Contact for rates
+  * _Tutoring is available for the AP Music Theory exam, applicable theory for songwriting and arranging, or classroom music theory instruction._
 
 ### Song Production & Arranging
 
 * Contact for rates
+  * _Gain access to tutorials, exercises, and examples for songwriting and arranging strategies, learn GarageBand tools and shortcuts, and use basic music theory to help make your songwriting and arranging effective._
 
 ### Practice Tracks & Recordings
 
 * Contact for rates
+  * _Receive practice vocal or accompaniment tracks for your repertoire, or receive learning tracks with multiple harmony parts for effective long distance ensemble rehearsing._ 
 
 ### Wedding & Event Music
 
