@@ -1,7 +1,7 @@
 ---
 template: DefaultPage
-slug: links
-title: Links & Information
+slug: reference
+title: Reference
 featuredImage: 'https://ucarecdn.com/f4eb58a7-da4f-479c-9c63-b847abe144ae/'
 ---
 **_Lesson Schedule_**

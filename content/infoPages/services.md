@@ -7,7 +7,7 @@ meta:
   description: Vocal studio services listing
   title: services
 ---
-## Services
+
 
 ### Vocal/Piano/Guitar lessons (face to face and virtual)
 
