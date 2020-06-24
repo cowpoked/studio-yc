@@ -8,7 +8,9 @@ Lesson Schedule
 
 Willis Warmup Series 
 
-Introduction & Demo Vocal Lesson 
+Piano Instructional Resources
+
+Guitar Instructional Resources
 
 Arrangement Demo Reel 
 
