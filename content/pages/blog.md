@@ -2,7 +2,7 @@
 template: BlogIndex
 slug: blog
 title: Blog Page
-featuredImage: 'https://ucarecdn.com/0d16acce-c0c5-4252-98ec-a47df3057b44/'
+featuredImage: 'https://ucarecdn.com/df7a0ece-ca6a-4737-bc7e-adf2394f6516/'
 subtitle: >-
   Check out this page for periodic musical tips, advice from various
   professionals, and interesting videos.
