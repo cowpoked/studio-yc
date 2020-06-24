@@ -2,7 +2,7 @@
 template: DefaultPage
 slug: reference
 title: Reference
-featuredImage: 'https://ucarecdn.com/4d9a3fe1-f74d-42e5-9a40-de2f21aeae70/'
+featuredImage: 'https://ucarecdn.com/66e47f78-ac91-4218-9187-4fd167ec453f/'
 ---
 Lesson Schedule
 
