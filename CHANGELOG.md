@@ -1,3 +1,20 @@
+## 2.0.14 - 2020-04-24
+
+Update image.js to resolve lazy load issue.
+Thanks @joebram
+
+## 2.0.13 - 2020-03-11
+
+Update node .nvmrc for build step.
+Successful Upgrade to latest packages.
+Thanks @flamebeard
+Thanks @krosenk729
+
+## 2.0.12 - 2019-11-01
+
+Removed date-fns and replaced with moment.js  
+Thanks @doakheggeness
+
 ## 2.0.11 - 2019-08-29
 
 Add API key to resolve instagram issue.

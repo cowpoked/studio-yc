@@ -3,7 +3,7 @@
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![dependencies](https://david-dm.org/jinksi/netlify-cms-react-starter.svg?style=flat-square)](https://david-dm.org/jinksi/gatsbro)
 
-An opinionated starter project for creating lightning-fast websites with [Gatsby](https://gatsbyjs.org) v2 and [Netlify CMS](https://netlifycms.org) v2.
+An opinionated starter project for creating lightning-fast websites with [Gatsby](https://gatsbyjs.org) v2 and [Netlify CMS](https://netlifycms.org) v2. Made by [Thrive Web Design on the Gold Coast, Australia](https://thriveweb.com.au) 
 
 - **[Gatsby](https://gatsbyjs.org)** static site generator
 - **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
@@ -135,7 +135,7 @@ https://hooks.zapier.com/hooks/catch/2881617/ea5exg/
 - Hit send test to MailChimp button and hit finish if succeeded
 - Give your Zap a name and make sure your zap is turned on
 - Submit your form one last time and see if all data is coming trough to MailChimp
-- Thats is!
+- That's it!
 
 ## Instagram Feed
 
